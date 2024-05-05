@@ -33,6 +33,10 @@ It demonstrates data preprocessing, feature selection, and machine learning to p
 `MinMaxScaler` is used to prevent bias in models where feature scales significantly differ, 
 which can disproportionately influence the model's performance.
 
+## Updates
+
+Backward elimination improves model by `1.1%` compared to forward selection (previously `62.3%`).
+
 ## Further Improvements
 
 The model can be further improved by:
