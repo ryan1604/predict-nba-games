@@ -44,3 +44,4 @@ The model can be further improved by:
 - Using `RandomForest` instead of `ridge regression`.
 - Adjusting the number of features selected.
 - Using backward elimination instead of forward selection.
+- Include win-loss ratio as a feature.
